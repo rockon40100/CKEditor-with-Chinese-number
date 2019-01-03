@@ -38,7 +38,7 @@
   config.pasteFromWordRemoveFontStyles = false;
   config.pasteFromWordRemoveStyles = false;
 	//config.skin = 'moono-dark';
-  config.height = 350;
+  config.height = 550;
   config.removePlugins = 'contextmenu,liststyle,tabletools';
 	//config.enterMode = CKEDITOR.ENTER_BR;config.shiftEnterMode = CKEDITOR.ENTER_P;
   //config.tabSpaces = 12;
